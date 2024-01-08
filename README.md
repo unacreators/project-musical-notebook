@@ -1,5 +1,9 @@
 # MusicalNoteBook Flutter Project Instructions
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Project Overview
 
 Create a new Flutter project for `MusicalNoteBook`. The goal is to build an application that allows users to create and manage notes, with the added feature of playing random sounds when typing on specific keys.
